@@ -135,3 +135,10 @@
 <p align="left">
   <img src="https://github.com/dovandu/Build-ipa-ios-guide-without-account/blob/master/screenshort/22.png">
 </p>
+
+
+## Other:
+  - Create folder with name : "Payload" in desktop
+  - Copy paste file get from Xcode build
+  - Compress fole Payload to Payload.zip
+  - Change Payload.zip to name.ipa => finnish
