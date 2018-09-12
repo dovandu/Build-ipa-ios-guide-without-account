@@ -140,5 +140,5 @@
 ## Other:
   - Create folder with name : "Payload" in desktop
   - Copy paste file get from Xcode build
-  - Compress fole Payload to Payload.zip
+  - Compress folder Payload to Payload.zip
   - Change Payload.zip to name.ipa => finnish
